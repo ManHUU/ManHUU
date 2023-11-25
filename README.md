@@ -6,7 +6,7 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE" width='50%' height='50%'>
 </picture>
 
-
+![](https://github.com/ManHUU/ManHUU/blob/main/metrics.svg)
 <!--
 -->
 

@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManHUU/ManHUU/blob/main/picture/panda.avif">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE" width='50%'>
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE" width='50%' height='50%'>
 </picture>
 
 
